@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Magefast_ProductBreadcrumbs</name>
+    <version>0.0.1</version>
+    <stability>stable</stability>
+    <license>AFL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary></summary>
+    <description></description>
+    <notes>First realise</notes>
+    <authors><author><name>Alex</name><user>alexhost</user><email>magento@magefast.com</email></author></authors>
+    <date>2015-05-03</date>
+    <time>20:53:52</time>
+    <contents><target name="mage"><dir name="app"><dir name="code"><dir name="community"><dir name="Magefast"><dir name="ProductBreadcrumbs"><dir name="Helper"><file name="Data.php" hash="9733634caf0c2821a3421b2251c8c451"/></dir><dir name="Model"><file name="Observer.php" hash="ee22c9c3e7d758e57686b48027eb84d5"/></dir><dir name="etc"><file name="config.xml" hash="7af0ee4a3fe8b41b35cbe7487b2a85c0"/><file name="system.xml" hash="55b5246448b7c92e5c493bc9d76edf0f"/></dir></dir></dir></dir><dir name="local"><dir name="Magefast"><dir name="RemoveCrumbs"><dir name="Block"><dir name="Html"><file name="Breadcrumbs.php" hash="f2ac7bfd76bcccd9bb774bf971e0e911"/></dir></dir><dir name="Helper"><file name="Data.php" hash="4d7a688a276acd82309ed56a7f8e7584"/></dir><dir name="etc"><file name="config.xml" hash="3afcc96685c1a34584861135b763bc9e"/></dir></dir></dir></dir></dir><dir name="etc"><dir name="modules"><file name="Magefast_RemoveCrumbs.xml" hash="9d65e88f7956ed10f31413863abab01a"/><file name="Magefast_ProductBreadcrumbs.xml" hash="d2eeb802b3e2d341c260d48d869d45f9"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Magefast_ProductBreadcrumbs>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Magefast_RemoveCrumbs/>
+            </depends>
+        </Magefast_ProductBreadcrumbs>
+    </modules>
+</config>
